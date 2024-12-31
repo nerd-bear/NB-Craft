@@ -1,0 +1,23 @@
+name: NerdBearCraft
+version: '1.0-SNAPSHOT'
+main: org.nerdbearcraft.nerdBearCraft.NerdBearCraft
+api-version: '1.21'
+authors: [ Nerd Bear ]
+description: A general plugin to display my skill and ability in making plugins
+website: nerd-bear.org
+
+commands:
+  nerdbearcraft:
+    description: General info about the plugin
+    usage: /nerdbearcraft
+    aliases:
+      - nbcraft
+  menu:
+    description: Shows menu to player
+    usage: /menu
+  bondorwand:
+    description: Gives you the Bondor Wand
+    usage: /bondorwand
+  spawnbondorboss:
+    description: Spawns Bondor Boss
+    usage: /spawnbondorboss

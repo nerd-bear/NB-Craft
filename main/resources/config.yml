@@ -1,0 +1,8 @@
+messages:
+  # Prefix for Game Messages to Players and Global
+  # (Supports Vanilla Color Codes)
+  game-prefix: "&b&lNB CRAFT &7⨠&f"
+
+  # Prefix for Console Messages to the console and Server Logs
+  # (Does not support Vanilla Color Codes)
+  console-prefix: "[NB Craft]"
